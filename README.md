@@ -36,5 +36,6 @@ note:
 
 i earlier mentioned that only nodes that have changed will be updated,this is done by React Reconciler
 
+### what is react Reconciler?
 
-React Reconciler is the internal algorithm in the React library that is responsible for managing and updating the Virtual DOM
+is the internal algorithm in the React library that is responsible for managing and updating the Virtual DOM
