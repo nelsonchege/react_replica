@@ -1,4 +1,4 @@
-# react_replica
+# react replica
 
 HTML code defines the structure and content of a web page, and the DOM represents that structure and content as a set of objects(nodes) that can be manipulated 
 
